@@ -15,6 +15,6 @@ It simulates:
    gcc -o simulator simulator.c
    
 2. Run the program with a test file:
-   ./simulator testfile.txt -v
+   ./simulator addresses.txt -v
 
 
