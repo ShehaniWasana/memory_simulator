@@ -17,8 +17,4 @@ It simulates:
 2. Run the program with a test file:
    ./simulator testfile.txt -v
 
-** Features**
-TLB hits and misses
-Page faults and replacements
-Cache hits and misses
-Statistics summary at the end
+
